@@ -5,7 +5,7 @@
   Desarrolldor Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Fededjpg](https://img.shields.io/badge/-fededjpg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/fededjpg/)](www.linkedin.com/in/fededjpg/)
+[![Linkedin: Fededjpg](https://img.shields.io/badge/-fededjpg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/fededjpg/)]
 [![GitHub Fededjpg](https://img.shields.io/github/followers/fededjpg?label=follow&style=social)](https://github.com/fededjpg)
 
 
