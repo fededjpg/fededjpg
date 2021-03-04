@@ -1,6 +1,6 @@
   <h2> Hola, Soy Federico! <img src="https://media.giphy.com/media/i6O3xEh72rp84/giphy.gif" width="50"</h2>
 <img align='right' src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="230">
-<p><em>Lic. Sistemas Computacionales <a href="https://www.unach.mx/">UNACH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrolldor Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Lic. Sistemas Computacionales <a href="https://www.unach.mx/">UNACH</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Desarrollador Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin: Fededjpg](https://img.shields.io/badge/-fededjpg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fededjpg/)](https://www.linkedin.com/in/fededjpg/)
