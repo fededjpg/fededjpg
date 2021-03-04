@@ -4,7 +4,7 @@
   </br>
   Desarrolldor Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-[![Linkedin: fededjpg](https://img.shields.io/badge/-fededjpg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fededjpg/)](https://www.linkedin.com/in/fededjpg/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub Fededjpg](https://img.shields.io/github/followers/fededjpg?label=follow&style=social)](https://github.com/fededjpg/)
 
 
