@@ -4,11 +4,10 @@
   </br>
   Desarrolldor Web<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-[![GitHub Fededjpg](https://img.shields.io/github/?label=follow&style=social)](www.linkedin.com/in/fededjpg/)
 [![GitHub Fededjpg](https://img.shields.io/github/followers/fededjpg?label=follow&style=social)](https://github.com/fededjpg)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif" width="50"> Un poco mas sobre mi...  
 
 ```javascript
 const thai = {
