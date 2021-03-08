@@ -12,8 +12,7 @@
 ```javascript
 const es = {
   code: [Javascript, HTML, CSS, PHP],
-  tools: [React, Laravel, Node],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  tools: [React, Laravel, Node]
 }
 ```
 
